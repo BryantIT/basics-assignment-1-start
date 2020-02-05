@@ -9,3 +9,7 @@ result = 18 + userInput
 result = result - 5
 result = result * 3
 result - result / 3
+
+// Task Four
+// Did the value stored in the user input change?
+// Answer: No.
